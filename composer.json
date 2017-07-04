@@ -1,9 +1,9 @@
 {
-    "name": "mayconbordin/l5-db-commands",
+    "name": "ksarien/l5-db-commands",
     "type": "library",
     "description": "A set of commands to create/drop/dump/restore databases on Laravel 5",
     "keywords": ["laravel", "laravel 5", "database", "commmands"],
-    "homepage": "https://github.com/mayconbordin/l5-db-commands",
+    "homepage": "https://github.com/ksarien/l5-db-commands",
     "license": "MIT",
     "authors": [
         {
