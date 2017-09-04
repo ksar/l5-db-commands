@@ -23,6 +23,5 @@
         "psr-4": {
             "Mayconbordin\\DbCommands\\": "src/Mayconbordin/DbCommands/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
