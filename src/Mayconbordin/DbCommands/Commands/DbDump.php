@@ -27,7 +27,7 @@ class DbDump extends DbCommand
 	 *
 	 * @return mixed
 	 */
-	public function fire()
+	public function handle()
 	{
         try {
             $output = $this->argument('output');

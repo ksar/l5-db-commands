@@ -25,7 +25,7 @@ class DbDrop extends DbCommand
      *
      * @return mixed
      */
-    public function fire()
+    public function handle()
     {
         try {
             $auto   = $this->option("no-interaction");

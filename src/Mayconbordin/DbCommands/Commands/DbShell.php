@@ -24,7 +24,7 @@ class DbShell extends DbCommand
 	 *
 	 * @return mixed
 	 */
-	public function fire()
+	public function handle()
 	{
 		try {
 			$driver = $this->getDatabaseDriver();
