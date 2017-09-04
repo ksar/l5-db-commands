@@ -24,6 +24,7 @@
             "Mayconbordin\\DbCommands\\": "src/Mayconbordin/DbCommands/"
         }
     },
+    "minimum-stability": "stable",
     "extra": {
         "laravel": {
             "providers": [
