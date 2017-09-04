@@ -24,5 +24,5 @@
             "Mayconbordin\\DbCommands\\": "src/Mayconbordin/DbCommands/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
