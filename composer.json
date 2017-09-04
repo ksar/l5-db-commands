@@ -23,5 +23,12 @@
         "psr-4": {
             "Mayconbordin\\DbCommands\\": "src/Mayconbordin/DbCommands/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mayconbordin\\DbCommands\\DbCommandsServiceProvider"
+            ]
+        }
     }
 }
